@@ -3,7 +3,7 @@
 <p align='justify'>I’m a Computational Linguist and NLP Developer. Currently, I’m working in e2e NLP applications development, such Chatbots and Social Listening tools. As IT professional, I’m interested in the research and implementation of SOAT NLP models, as well as software architecture and good design practices applied to the scalability of NLP solutions.</p>
 
 - 🔭 I’m currently working on <a href="https://www.movistar.com.ar/">Telefónica Argentina</a> as NLP developer.
-- 🔧 I am mainly interested in projects that involve the implementation of attentional neural networks.
+- 🔧 I am mainly interested in projects that involve the implementation of SOAT NLP models, such attentional neural networks.
 - 🌱 I’m learning how to improve NLP solutions from the perspective of a software architect.
 - 📫 Contact me through <a href="https://www.linkedin.com/in/juli%C3%A1n-chia-67623219a/">my Linkedin</a>! 😃
 
